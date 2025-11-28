@@ -1,0 +1,5 @@
+outs:
+- md5: 98dd6aa5b3118bf08ac450fc6d160b90
+  size: 66754
+  hash: md5
+  path: btc_data.csv
