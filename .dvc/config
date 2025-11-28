@@ -1,7 +1,5 @@
 [core]
-    analytics = false
     remote = myremote
-['remote "myremote2"']
-    url = gdrive://1y5Znwwy4iXHd8NDUMVEB920AIiK9AMb6
 ['remote "myremote"']
-    url = gdrive://1y5Znwwy4iXHd8NDUMVEB920AIiK9AMb6
+    url = gs://asi-project-dvc
+    credentialpath = /Users/shurikandrew/Downloads/asi.json
